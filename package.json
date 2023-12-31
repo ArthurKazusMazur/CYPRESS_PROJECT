@@ -1,0 +1,16 @@
+{
+  "name": "cypress_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "npx cypress run --headless --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "cypress": "^13.3.0"
+  }
+}
